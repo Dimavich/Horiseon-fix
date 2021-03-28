@@ -28,18 +28,14 @@ This is the refractored version of the Horiseon digital marketing agency website
 
 ### Before 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the
-
-bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 ### After
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the
-
-bottom of the page.](./Assets/Horiseon-after.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/Horiseon-after.png)
 
 ## Links
 
 -[GitHub Repo](https://github.com/Dimavich/Horiseon-fix)
 
--[Website]()
+-[Website](https://dimavich.github.io/Horiseon-fix/)
